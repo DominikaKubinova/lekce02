@@ -39,11 +39,16 @@ h1, h2, h3 {
     border: 1px dashed red;
 }
 
+a {
+    display: block;
+}
+
 
 .odstavec {
     margin: 1px 0;
     color: white;
     border: 1px solid black;
+
 }
 
 .prvni {
@@ -52,10 +57,12 @@ h1, h2, h3 {
 
 .druhy {
     background-color: #f1c40f;
+    opacity:0,3;
 }
 
 .treti {
     background-color: #e74c3c;
+    
 }
 
 

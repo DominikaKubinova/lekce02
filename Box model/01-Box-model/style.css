@@ -2,4 +2,14 @@
 html { box-sizing: border-box; }
 *, ::after, ::before { box-sizing: inherit; }
 
+img {
+    width: 32%;
+}
 
+h1{
+    margin-bottom:100px;
+}
+
+p {
+    margin-top: 50px;
+}

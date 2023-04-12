@@ -1,6 +1,6 @@
 /* Moderní box model - nastavená šířka boxu je včetně paddingu a borderu */
 html {
-  box-sizing: border-box;
+  box-sizing: border-box; 
 }
 
 *,
